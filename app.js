@@ -56,7 +56,7 @@ const menu = {
 
 menu.addDishToCourse('appetizers', 'fries', 4.50) 
 
-menu.addDishToCourse('mains', 'fufu', 30.00) 
+menu.addDishToCourse('mains', 'fufu', 45.00) 
  
 menu.addDishToCourse('desserts', 'kelewele', 1.00) 
  
